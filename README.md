@@ -1,18 +1,21 @@
 Devoir Module JEE – Architecture Microservices avec Spring Cloud
 
 Étudiante: Salma Azizi  & Khaoula Segten
+
 Année : 5ᵉ année IIR11 
+
 Module : Java Entreprise Edition (JEE)
 
 ---
 ##  Structure du projet
 Devoir-cas2/
-├── config-server/ # Spring Cloud Config Server (port 8888)
-├── eureka-server/ # Service Discovery avec Eureka (port 8761)
-├── api-gateway/ # API Gateway (Spring Cloud Gateway, port 8080)
-├── microservice-commandes/ # CRUD Commandes + santé personnalisée (port 8082)
-├── microservice-produit/ # CRUD Produits (port 8081)
-└── config-repo/ # Dépôt Git local des configurations
+config-server/ # Spring Cloud Config Server (port 8888)
+eureka-server/ # Service Discovery avec Eureka (port 8761)
+api-gateway/ # API Gateway (Spring Cloud Gateway, port 8080)
+microservice-commandes/ # CRUD Commandes + santé personnalisée (port 8082)
+microservice-produit/ # CRUD Produits (port 8081)
+config-repo/ # Dépôt Git local des configurations
+
 ## Pré-requis
 - Java 11 (ou 17 si tu veux adapter)
 - Maven
