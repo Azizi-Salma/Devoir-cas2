@@ -1,11 +1,5 @@
 Devoir Module JEE – Architecture Microservices avec Spring Cloud
 
-Étudiants: Salma Azizi  & Khaoula Segten
-
-Année : 5ᵉ année IIR11 
-
-Module : Java Entreprise Edition (JEE)
-
 ---
 ##  Structure du projet
 Devoir-cas2/
